@@ -4,7 +4,7 @@ email: service@class101.net
 author: John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: ""
-url: "https://class101.net"
+url: "https://corp.class101.net"
 date_format: "%Y년 %m월 %d일"
 header_pages:
 
